@@ -4,6 +4,6 @@ This project is a learning exercise in implementing **Machine Learning Algorithm
 
 By constructing the model from scratch, we gain valuable insights into how algorithms work, including the process of calculating coefficients, making predictions, and evaluating model performance. This project serves as an educational resource for those interested in machine learning and statistical modeling.
 
-## Algorithms
+## Approaches
 
 ◆ Simple Linear Regression Using the CO2emission Dataset
